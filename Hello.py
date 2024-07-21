@@ -1,4 +1,4 @@
 #python program to add two numbers
-a = 20
-b = 10
-print(a+b)
+a = int(input("Enter first number : "))
+b = int(input("Enter second number : "))
+print(a,"+",b,"=",a+b)
