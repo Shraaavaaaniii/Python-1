@@ -30,7 +30,7 @@ print(a,type(a))
 a = {1,2,3,4,5,6}
 print(a,type(a))
 #frozenset
-a = ({"Mango","Apple","Banana"})
+a = frozenset({"Mango","Apple","Banana"})
 print(a,type(a))
 #range
 a = range(5)
