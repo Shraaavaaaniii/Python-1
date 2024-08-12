@@ -66,9 +66,9 @@
 # print(l)
 
 # 12.extends() : Adds item of list at the end of other list
-# car = ["Audi","BMW","Maruti"]
-# other_car = ["Jaguar","Thar"]
-# car.extend(other_car)
-# print(car)
-# print(car + other_car)  #concate
-# print(car*2) #to repeat the content 2 times
+car = ["Audi","BMW","Maruti"]
+other_car = ["Jaguar","Thar"]
+car.extend(other_car)
+print(car)
+print(car + other_car)  #concate
+print(car*2) #to repeat the content 2 times
