@@ -1,3 +1,4 @@
+# tuple()
 t = (1,2,3,4,5,4,6)
 print(t,type(t),len(t))
 #we can access tuple elements by using +ve or -ve indexing
