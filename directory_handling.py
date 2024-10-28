@@ -9,7 +9,7 @@ import os as o
 # print("Binary format : ",o.getcwdb())
 
 # 3.rename() : to rename directory
-o.rename("Python programs","mypackage")
+# o.rename("Python programs","mypackage")
 
 # 4.chdir() : to change directory
 # print("Current directory : ",o.getcwd())

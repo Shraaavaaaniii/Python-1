@@ -18,6 +18,6 @@ info = {"name":"Shravani","Roll_no":5,"Marks":88.89}
 #keys()
 # print(info.keys())
 # pop()
-print(info.pop("name"),"is deleted")
+# print(info.pop("name"),"is deleted")
 #popitem()...
 # print(info.popitem())
